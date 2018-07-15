@@ -7,7 +7,7 @@ create_an_array = ['cheese','meat','goat','cow']
 end
 
 def add_element_to_end_of_array(array, element)
-food << "car"
+create_an_array << "car"
 end
 
 def add_element_to_start_of_array(array, element)
